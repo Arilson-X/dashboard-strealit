@@ -8,6 +8,7 @@ st.title("DASHBOARD DE VENDAS :shopping_trolley:")
 url = 'https://labdados.com/produtos'
 response = requests.get(url)
 dados = pd.DataFrame.from_dict(response.json())
+
 receita_total = dados['Preço'].sum()
 qtd_vendas = dados.shape[0]
 
