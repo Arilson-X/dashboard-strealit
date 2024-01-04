@@ -7,3 +7,5 @@ Também foi colocado para ela a opção de fazer os downloads dos dados utilizad
 ## Streamlit: construindo um dashboard interativo
 Neste curso foi abordado a ferramenta Streamlit para desenvolvimento de dashboards, utilizando da linguagem python e suas bibliotecas.Neste curso foi abordado desde as bibliotecas e seus conceitos
 até o consumo de dados de uma API, mais sobre este curso pode ser visto em [Streamlit: construindo um dashboard interativo](https://cursos.alura.com.br/course/streamlit-construindo-dashboard-interativo).
+
+![Dashboard](https://github.com/Arilson-X/dashboard-strealit/blob/main/dashboard.png)
